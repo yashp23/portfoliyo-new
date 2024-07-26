@@ -2,7 +2,7 @@ import React from "react";
 
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
-import cv from "../../../assets/projects/yash_resume_new.pdf";
+import cv from "../../../assets/projects/yash_resume_new (12).pdf";
 
 export const Hero = () => {
   return (
