@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Personal-Blog-App",
+    "imageSrc": "projects/blog.png",
+    "description": "The Blog App, built using the MERN stack technology with comprehensive CRUD functionality. ",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://github.com/yashp23/blog-app-updated",
+    "source": "https://github.com/yashp23/blog-app-updated"
+  },
+  {
+    "title": "Lost & Found",
+    "imageSrc": "projects/lost_and_found.png",
+    "description": "Lost and Found helps you find lost items and reunite them with their owners. if you can lost something special you can easily report it here.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://lost-found-kappa.vercel.app/",
+    "source": "https://github.com/yashp23/Lost-Found2.0"
+},
+{
+  "title": "Keeper Notes Website",
+  "imageSrc": "projects/Task_Manager.png",
+  "description": "Task Manager will help you to save your secret things into your personal website and manage them efficiently.",
+  "skills": ["React", "Express", "Node","MongoDB"],
+  "demo": "https://task-manager-2-o.vercel.app/",
+  "source": "https://github.com/yashp23/todo-manager-2.0"
+},
+  {
+    "title": "Social-Connect",
+    "imageSrc": "projects/Social-connect.png",
+    "description": "I created a Social-Connect Application with the Next js Stack. I used the basic concepts of Next.js for the front-end, and backend,",
+    "skills": ["Next js", "Typescript", "MongoDB"],
+    "demo": "https://social-connect-ii8p.vercel.app/",
+    "source": "https://github.com/yashp23/Social-connect"
+  },
+  {
+    "title": "Personal Portfoliyo",
+    "imageSrc": "projects/portfoliyo.png",
+    "description": "I'm thrilled to share my journey and projects with you. Explore my portfolio to discover my latest projects, achievements, and insights.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Thread-Clone",
+    "imageSrc": "projects/Thread.png",
+    "description": "This is a project made to learn the latest languages by building basic concept of typescript, next js, like trending technology .",
+    "skills": ["Typescript", "Next js", "Postgresql", "Prisma"],
+    "demo": "https://github.com/yashp23/thread-clon2",
+    "source": "https://github.com/yashp23/thread-clon2"
+  }
+]
