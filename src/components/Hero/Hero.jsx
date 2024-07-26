@@ -9,18 +9,21 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Yash Parmar</h1>
         <p className={styles.description}>
-        Hello! I'm Yash Parmar. I am a full stack developer with expertise in the MERN stack and Next.js development.
+          Hello! I'm Yash Parmar. I am a full stack developer with expertise in
+          the MERN stack and Next.js development.
         </p>
-        <a href="mailto:ypm23032003@email.com" className={styles.contactBtn}>
-          Contact Me
-        </a>
-        <a
-          href="/assets/projects/yash_resume_new (12).pdf"
-          className={styles.contactBtn}
-          download="yash_resume_new (12).pdf"
-        >
-          Download CV
-        </a>
+        <div className={styles.items}>
+          <a href="mailto:ypm23032003@email.com" className={styles.contactBtn}>
+            Contact Me
+          </a>
+          <a
+            href="/assets/projects/yash_resume_new (12).pdf"
+            className={styles.contactBtn}
+            download="yash_resume_new (12).pdf"
+          >
+            Download CV
+          </a>
+        </div>
       </div>
       <img
         src={getImageUrl("hero/yash.jpg")}
